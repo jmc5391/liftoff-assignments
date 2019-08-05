@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* Main Page: https://github.com/jmc5391/liftoff-assignments/blob/master/main.jpg
+* Fish Generator: https://github.com/jmc5391/liftoff-assignments/blob/master/generator.jpg
+* Fishpedia: https://github.com/jmc5391/liftoff-assignments/blob/master/fishpedia.jpg
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/b/J19gcUf8/mvp
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/jmc5391/capstone
